@@ -1,0 +1,28 @@
+Job Title: Full Stack Developer
+Company: Pixelforge Studio
+
+About the role:
+We are looking for a Full Stack Developer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using HTML and CSS
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Angular
+- Vue
+- Node.js
+- Express
+- REST API
+- MongoDB
+
+Nice to have:
+- SQL
+- Git
+- Tailwind

@@ -1,0 +1,5 @@
+model,cv_accuracy,cv_f1_macro,cv_f1_std,test_accuracy,test_precision,test_recall,test_f1_macro,seconds
+Naive Bayes,0.999,0.999,0.0021,1.0,1.0,1.0,1.0,0.6791
+SVM (linear),0.9948,0.9948,0.0046,0.9958,0.996,0.9958,0.9958,22.0048
+Random Forest,0.9938,0.9937,0.0051,1.0,1.0,1.0,1.0,6.9596
+Logistic Regression,0.9917,0.9917,0.0062,1.0,1.0,1.0,1.0,3.4997

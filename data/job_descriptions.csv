@@ -1,0 +1,1311 @@
+id,category,title,text,required,preferred
+J000,Cybersecurity,Security Analyst,"Job Title: Security Analyst
+Company: Pixelforge Studio
+
+About the role:
+We are looking for a Security Analyst to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Wireshark and Python
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Wireshark
+- Python
+- ISO 27001
+- Kali Linux
+- Network Security
+- SIEM
+- Incident Response
+- Burp Suite
+- Splunk
+- Penetration Testing
+- Vulnerability Assessment
+
+Nice to have:
+- Ethical Hacking
+- Firewalls
+- OWASP",wireshark|python|iso 27001|kali linux|network security|siem|incident response|burp suite|splunk|penetration testing|vulnerability assessment,ethical hacking|firewalls|owasp
+J001,Cybersecurity,Penetration Tester,"Job Title: Penetration Tester
+Company: Pixelforge Studio
+
+About the role:
+We are looking for a Penetration Tester to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Nmap and Splunk
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Nmap
+- Splunk
+- Incident Response
+- Network Security
+- OWASP
+- Wireshark
+- Firewalls
+- Linux
+- ISO 27001
+- Cryptography
+- Kali Linux
+
+Nice to have:
+- SIEM
+- Ethical Hacking
+- Burp Suite",nmap|splunk|incident response|network security|owasp|wireshark|firewalls|linux|iso 27001|cryptography|kali linux,siem|ethical hacking|burp suite
+J002,DevOps,Cloud Engineer,"Job Title: Cloud Engineer
+Company: Quantix Labs
+
+About the role:
+We are looking for a Cloud Engineer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using AWS and Ansible
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- AWS
+- Ansible
+- Bash
+- Kubernetes
+- Linux
+- Jenkins
+- Nginx
+- Monitoring
+- Helm
+- GitLab CI
+- CI/CD
+- Prometheus
+
+Nice to have:
+- Grafana
+- Docker
+- Terraform",aws|ansible|bash|kubernetes|linux|jenkins|nginx|monitoring|helm|gitlab ci|ci/cd|prometheus,grafana|docker|terraform
+J003,Software Testing,Software Tester,"Job Title: Software Tester
+Company: Ironleaf Analytics
+
+About the role:
+We are looking for a Software Tester to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Performance Testing and Bug Tracking
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Performance Testing
+- Bug Tracking
+- Cypress
+- Test Automation
+- Agile
+- Postman
+- TestNG
+- Python
+- JUnit
+- Selenium
+- Api Testing
+
+Nice to have:
+- Manual Testing
+- Jira
+- JMeter",performance testing|bug tracking|cypress|test automation|agile|postman|testng|python|junit|selenium|api testing,manual testing|jira|jmeter
+J004,Software Testing,Test Automation Engineer,"Job Title: Test Automation Engineer
+Company: Quantix Labs
+
+About the role:
+We are looking for a Test Automation Engineer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Bug Tracking and Api Testing
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Bug Tracking
+- Api Testing
+- Python
+- Agile
+- JMeter
+- Jenkins
+- Selenium
+- Manual Testing
+
+Nice to have:
+- Jira
+- SQL
+- Git",bug tracking|api testing|python|agile|jmeter|jenkins|selenium|manual testing,jira|sql|git
+J005,Java Backend,Java Backend Developer,"Job Title: Java Backend Developer
+Company: Vertex Cloud
+
+About the role:
+We are looking for a Java Backend Developer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Docker and Spring Boot
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Docker
+- Spring Boot
+- SQL
+- JPA
+- Git
+- Maven
+- Microservices
+- Hibernate
+
+Nice to have:
+- Redis
+- MySQL
+- Spring Security",docker|spring boot|sql|jpa|git|maven|microservices|hibernate,redis|mysql|spring security
+J006,Mobile Development,Mobile App Developer,"Job Title: Mobile App Developer
+Company: Helios Digital
+
+About the role:
+We are looking for a Mobile App Developer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Swift and Git
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Swift
+- Git
+- Flutter
+- Java
+- Firebase
+- Android
+- Push Notifications
+- Jetpack Compose
+- Kotlin
+- iOS
+
+Nice to have:
+- Android Studio
+- Xcode
+- SQLite",swift|git|flutter|java|firebase|android|push notifications|jetpack compose|kotlin|ios,android studio|xcode|sqlite
+J007,Web Development,Web Developer,"Job Title: Web Developer
+Company: Quantix Labs
+
+About the role:
+We are looking for a Web Developer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using SQL and JavaScript
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- SQL
+- JavaScript
+- Webpack
+- GraphQL
+- Responsive Design
+- React
+- MongoDB
+- TypeScript
+- Docker
+- CSS
+
+Nice to have:
+- Node.js
+- Next.js
+- Vue",sql|javascript|webpack|graphql|responsive design|react|mongodb|typescript|docker|css,node.js|next.js|vue
+J008,Web Development,Full Stack Developer,"Job Title: Full Stack Developer
+Company: Quantix Labs
+
+About the role:
+We are looking for a Full Stack Developer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using HTML and Git
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- HTML
+- Git
+- REST API
+- React
+- Redux
+- Node.js
+- JavaScript
+- Angular
+- GraphQL
+- Webpack
+- Next.js
+
+Nice to have:
+- Vue
+- TypeScript
+- Docker",html|git|rest api|react|redux|node.js|javascript|angular|graphql|webpack|next.js,vue|typescript|docker
+J009,Software Testing,Software Tester,"Job Title: Software Tester
+Company: Northwind Technologies
+
+About the role:
+We are looking for a Software Tester to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Test Automation and Test Cases
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Test Automation
+- Test Cases
+- Python
+- Git
+- Selenium
+- Api Testing
+- Jira
+- JMeter
+- Jenkins
+- Postman
+- JUnit
+
+Nice to have:
+- SQL
+- TestNG
+- Agile",test automation|test cases|python|git|selenium|api testing|jira|jmeter|jenkins|postman|junit,sql|testng|agile
+J010,Cybersecurity,Security Analyst,"Job Title: Security Analyst
+Company: Brightpath Software
+
+About the role:
+We are looking for a Security Analyst to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Network Security and OWASP
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Network Security
+- OWASP
+- Ethical Hacking
+- Penetration Testing
+- SIEM
+- Python
+- Wireshark
+- Linux
+- Splunk
+
+Nice to have:
+- Kali Linux
+- Nmap
+- Vulnerability Assessment",network security|owasp|ethical hacking|penetration testing|siem|python|wireshark|linux|splunk,kali linux|nmap|vulnerability assessment
+J011,Cybersecurity,Cybersecurity Engineer,"Job Title: Cybersecurity Engineer
+Company: Vertex Cloud
+
+About the role:
+We are looking for a Cybersecurity Engineer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Splunk and Firewalls
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Splunk
+- Firewalls
+- SIEM
+- Incident Response
+- Cryptography
+- Kali Linux
+- Network Security
+- Vulnerability Assessment
+- Python
+- Nmap
+
+Nice to have:
+- Penetration Testing
+- Burp Suite
+- OWASP",splunk|firewalls|siem|incident response|cryptography|kali linux|network security|vulnerability assessment|python|nmap,penetration testing|burp suite|owasp
+J012,Data Engineering,Big Data Engineer,"Job Title: Big Data Engineer
+Company: Cedar Peak Solutions
+
+About the role:
+We are looking for a Big Data Engineer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Airflow and Spark
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Airflow
+- Spark
+- dbt
+- PostgreSQL
+- Scala
+- Data Modeling
+- ETL
+- Git
+- Python
+- Data Warehousing
+
+Nice to have:
+- Kafka
+- SQL
+- Hadoop",airflow|spark|dbt|postgresql|scala|data modeling|etl|git|python|data warehousing,kafka|sql|hadoop
+J013,Web Development,Frontend Developer,"Job Title: Frontend Developer
+Company: Quantix Labs
+
+About the role:
+We are looking for a Frontend Developer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Next.js and TypeScript
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Next.js
+- TypeScript
+- Express
+- Tailwind
+- GraphQL
+- JavaScript
+- CSS
+- SQL
+
+Nice to have:
+- Vue
+- Webpack
+- Git",next.js|typescript|express|tailwind|graphql|javascript|css|sql,vue|webpack|git
+J014,Java Backend,Java Backend Developer,"Job Title: Java Backend Developer
+Company: Quantix Labs
+
+About the role:
+We are looking for a Java Backend Developer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using REST API and Spring Boot
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- REST API
+- Spring Boot
+- Hibernate
+- Microservices
+- Git
+- Docker
+- Maven
+- JPA
+- Java
+- Redis
+- Spring Security
+- MySQL
+
+Nice to have:
+- PostgreSQL
+- SQL
+- Kafka",rest api|spring boot|hibernate|microservices|git|docker|maven|jpa|java|redis|spring security|mysql,postgresql|sql|kafka
+J015,Data Engineering,ETL Developer,"Job Title: ETL Developer
+Company: BlueOrbit Systems
+
+About the role:
+We are looking for a ETL Developer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Spark and Kafka
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Spark
+- Kafka
+- Data Modeling
+- PostgreSQL
+- Docker
+- Hadoop
+- SQL
+- Python
+- AWS
+- Data Warehousing
+- Airflow
+- Git
+
+Nice to have:
+- BigQuery
+- dbt
+- Scala",spark|kafka|data modeling|postgresql|docker|hadoop|sql|python|aws|data warehousing|airflow|git,bigquery|dbt|scala
+J016,Java Backend,Software Engineer,"Job Title: Software Engineer
+Company: Nimbus Works
+
+About the role:
+We are looking for a Software Engineer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Hibernate and MySQL
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Hibernate
+- MySQL
+- Redis
+- Java
+- REST API
+- PostgreSQL
+- JUnit
+- Spring Security
+- Maven
+- SQL
+
+Nice to have:
+- Spring Boot
+- JPA
+- Kafka",hibernate|mysql|redis|java|rest api|postgresql|junit|spring security|maven|sql,spring boot|jpa|kafka
+J017,Software Testing,QA Engineer,"Job Title: QA Engineer
+Company: Vertex Cloud
+
+About the role:
+We are looking for a QA Engineer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Test Automation and Selenium
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Test Automation
+- Selenium
+- Bug Tracking
+- Git
+- Performance Testing
+- Manual Testing
+- JUnit
+- SQL
+- JMeter
+
+Nice to have:
+- Jenkins
+- Test Cases
+- Jira",test automation|selenium|bug tracking|git|performance testing|manual testing|junit|sql|jmeter,jenkins|test cases|jira
+J018,Mobile Development,Mobile App Developer,"Job Title: Mobile App Developer
+Company: Quantix Labs
+
+About the role:
+We are looking for a Mobile App Developer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Xcode and MVVM
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Xcode
+- MVVM
+- iOS
+- Java
+- Material Design
+- React Native
+- Push Notifications
+- SQLite
+- Android
+- Android Studio
+
+Nice to have:
+- Dart
+- Flutter
+- Swift",xcode|mvvm|ios|java|material design|react native|push notifications|sqlite|android|android studio,dart|flutter|swift
+J019,Data Science,Machine Learning Engineer,"Job Title: Machine Learning Engineer
+Company: BlueOrbit Systems
+
+About the role:
+We are looking for a Machine Learning Engineer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Scikit-learn and NLP
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Scikit-learn
+- NLP
+- TensorFlow
+- Deep Learning
+- Feature Engineering
+- SQL
+- Computer Vision
+- Power BI
+
+Nice to have:
+- Pandas
+- Matplotlib
+- A/B Testing",scikit-learn|nlp|tensorflow|deep learning|feature engineering|sql|computer vision|power bi,pandas|matplotlib|a/b testing
+J020,Cybersecurity,Security Analyst,"Job Title: Security Analyst
+Company: Ironleaf Analytics
+
+About the role:
+We are looking for a Security Analyst to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Splunk and Kali Linux
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Splunk
+- Kali Linux
+- Vulnerability Assessment
+- ISO 27001
+- Firewalls
+- OWASP
+- SIEM
+- Linux
+- Ethical Hacking
+- Network Security
+- Python
+- Incident Response
+
+Nice to have:
+- Burp Suite
+- Penetration Testing
+- Cryptography",splunk|kali linux|vulnerability assessment|iso 27001|firewalls|owasp|siem|linux|ethical hacking|network security|python|incident response,burp suite|penetration testing|cryptography
+J021,Java Backend,Backend Engineer,"Job Title: Backend Engineer
+Company: Helios Digital
+
+About the role:
+We are looking for a Backend Engineer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Hibernate and Java
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Hibernate
+- Java
+- Redis
+- PostgreSQL
+- SQL
+- Git
+- REST API
+- Microservices
+- JPA
+- Spring Security
+- MySQL
+- Maven
+
+Nice to have:
+- Docker
+- JUnit
+- Spring Boot",hibernate|java|redis|postgresql|sql|git|rest api|microservices|jpa|spring security|mysql|maven,docker|junit|spring boot
+J022,Mobile Development,Android Developer,"Job Title: Android Developer
+Company: Nimbus Works
+
+About the role:
+We are looking for a Android Developer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using React Native and Firebase
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- React Native
+- Firebase
+- Android Studio
+- MVVM
+- Java
+- Android
+- Push Notifications
+- Material Design
+- Flutter
+- Kotlin
+
+Nice to have:
+- Swift
+- Dart
+- iOS",react native|firebase|android studio|mvvm|java|android|push notifications|material design|flutter|kotlin,swift|dart|ios
+J023,Data Engineering,Data Engineer,"Job Title: Data Engineer
+Company: Vertex Cloud
+
+About the role:
+We are looking for a Data Engineer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Spark and Kafka
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Spark
+- Kafka
+- ETL
+- MongoDB
+- AWS
+- Hadoop
+- Data Warehousing
+- PostgreSQL
+- BigQuery
+- Git
+- Scala
+
+Nice to have:
+- dbt
+- Airflow
+- Python",spark|kafka|etl|mongodb|aws|hadoop|data warehousing|postgresql|bigquery|git|scala,dbt|airflow|python
+J024,Data Engineering,ETL Developer,"Job Title: ETL Developer
+Company: Vertex Cloud
+
+About the role:
+We are looking for a ETL Developer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using dbt and Docker
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- dbt
+- Docker
+- Airflow
+- Data Warehousing
+- BigQuery
+- MongoDB
+- AWS
+- Git
+- SQL
+
+Nice to have:
+- Snowflake
+- Scala
+- ETL",dbt|docker|airflow|data warehousing|bigquery|mongodb|aws|git|sql,snowflake|scala|etl
+J025,Mobile Development,Android Developer,"Job Title: Android Developer
+Company: Nimbus Works
+
+About the role:
+We are looking for a Android Developer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using SQLite and Git
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- SQLite
+- Git
+- Firebase
+- Android
+- REST API
+- Dart
+- Kotlin
+- Android Studio
+- Jetpack Compose
+- Push Notifications
+- Java
+
+Nice to have:
+- Material Design
+- React Native
+- MVVM",sqlite|git|firebase|android|rest api|dart|kotlin|android studio|jetpack compose|push notifications|java,material design|react native|mvvm
+J026,Java Backend,Software Engineer,"Job Title: Software Engineer
+Company: Pixelforge Studio
+
+About the role:
+We are looking for a Software Engineer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Microservices and Redis
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Microservices
+- Redis
+- Kafka
+- REST API
+- Maven
+- JPA
+- Docker
+- JUnit
+- PostgreSQL
+- Spring Boot
+- Git
+
+Nice to have:
+- SQL
+- Java
+- MySQL",microservices|redis|kafka|rest api|maven|jpa|docker|junit|postgresql|spring boot|git,sql|java|mysql
+J027,Data Engineering,ETL Developer,"Job Title: ETL Developer
+Company: Pixelforge Studio
+
+About the role:
+We are looking for a ETL Developer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using AWS and Spark
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- AWS
+- Spark
+- dbt
+- BigQuery
+- MongoDB
+- Python
+- ETL
+- Git
+- Kafka
+- PostgreSQL
+- SQL
+
+Nice to have:
+- Data Warehousing
+- Scala
+- Hadoop",aws|spark|dbt|bigquery|mongodb|python|etl|git|kafka|postgresql|sql,data warehousing|scala|hadoop
+J028,Data Science,Data Scientist,"Job Title: Data Scientist
+Company: Quantix Labs
+
+About the role:
+We are looking for a Data Scientist to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Deep Learning and Machine Learning
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Deep Learning
+- Machine Learning
+- Tableau
+- NLP
+- Statistics
+- SQL
+- TensorFlow
+- Computer Vision
+- Matplotlib
+- Numpy
+- Python
+- Feature Engineering
+
+Nice to have:
+- Data Visualization
+- Power BI
+- Jupyter",deep learning|machine learning|tableau|nlp|statistics|sql|tensorflow|computer vision|matplotlib|numpy|python|feature engineering,data visualization|power bi|jupyter
+J029,Software Testing,Software Tester,"Job Title: Software Tester
+Company: Pixelforge Studio
+
+About the role:
+We are looking for a Software Tester to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Agile and JMeter
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Agile
+- JMeter
+- Python
+- TestNG
+- JUnit
+- Jira
+- Manual Testing
+- Selenium
+
+Nice to have:
+- Performance Testing
+- Bug Tracking
+- Cypress",agile|jmeter|python|testng|junit|jira|manual testing|selenium,performance testing|bug tracking|cypress
+J030,Data Science,Data Analyst,"Job Title: Data Analyst
+Company: Pixelforge Studio
+
+About the role:
+We are looking for a Data Analyst to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Power BI and Deep Learning
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Power BI
+- Deep Learning
+- Machine Learning
+- Python
+- TensorFlow
+- PyTorch
+- Matplotlib
+- SQL
+- Scikit-learn
+- Statistics
+
+Nice to have:
+- Data Visualization
+- NLP
+- Pandas",power bi|deep learning|machine learning|python|tensorflow|pytorch|matplotlib|sql|scikit-learn|statistics,data visualization|nlp|pandas
+J031,Java Backend,Java Backend Developer,"Job Title: Java Backend Developer
+Company: BlueOrbit Systems
+
+About the role:
+We are looking for a Java Backend Developer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using PostgreSQL and JUnit
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- PostgreSQL
+- JUnit
+- SQL
+- Kafka
+- Hibernate
+- Docker
+- Redis
+- Git
+- Maven
+
+Nice to have:
+- JPA
+- Java
+- Spring Security",postgresql|junit|sql|kafka|hibernate|docker|redis|git|maven,jpa|java|spring security
+J032,Data Science,Data Scientist,"Job Title: Data Scientist
+Company: Brightpath Software
+
+About the role:
+We are looking for a Data Scientist to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Keras and Computer Vision
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Keras
+- Computer Vision
+- Python
+- Power BI
+- Numpy
+- Tableau
+- TensorFlow
+- Statistics
+
+Nice to have:
+- Feature Engineering
+- A/B Testing
+- Machine Learning",keras|computer vision|python|power bi|numpy|tableau|tensorflow|statistics,feature engineering|a/b testing|machine learning
+J033,Data Science,Machine Learning Engineer,"Job Title: Machine Learning Engineer
+Company: BlueOrbit Systems
+
+About the role:
+We are looking for a Machine Learning Engineer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Data Visualization and PyTorch
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Data Visualization
+- PyTorch
+- Machine Learning
+- A/B Testing
+- Matplotlib
+- Scikit-learn
+- Feature Engineering
+- Keras
+- Jupyter
+
+Nice to have:
+- Computer Vision
+- Statistics
+- Python",data visualization|pytorch|machine learning|a/b testing|matplotlib|scikit-learn|feature engineering|keras|jupyter,computer vision|statistics|python
+J034,Cybersecurity,Cybersecurity Engineer,"Job Title: Cybersecurity Engineer
+Company: Helios Digital
+
+About the role:
+We are looking for a Cybersecurity Engineer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Python and Nmap
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Python
+- Nmap
+- Vulnerability Assessment
+- Splunk
+- Network Security
+- Cryptography
+- Burp Suite
+- ISO 27001
+- SIEM
+- Incident Response
+
+Nice to have:
+- Wireshark
+- Ethical Hacking
+- Firewalls",python|nmap|vulnerability assessment|splunk|network security|cryptography|burp suite|iso 27001|siem|incident response,wireshark|ethical hacking|firewalls
+J035,DevOps,Site Reliability Engineer,"Job Title: Site Reliability Engineer
+Company: Nimbus Works
+
+About the role:
+We are looking for a Site Reliability Engineer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Git and Bash
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Git
+- Bash
+- Linux
+- Nginx
+- AWS
+- Ansible
+- Helm
+- CI/CD
+- Monitoring
+- Python
+- Terraform
+- Docker
+
+Nice to have:
+- Grafana
+- Prometheus
+- Jenkins",git|bash|linux|nginx|aws|ansible|helm|ci/cd|monitoring|python|terraform|docker,grafana|prometheus|jenkins
+J036,Mobile Development,Android Developer,"Job Title: Android Developer
+Company: Helios Digital
+
+About the role:
+We are looking for a Android Developer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using iOS and Push Notifications
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- iOS
+- Push Notifications
+- MVVM
+- Android
+- Material Design
+- Swift
+- REST API
+- Git
+- Firebase
+- React Native
+- Dart
+
+Nice to have:
+- Android Studio
+- SQLite
+- Java",ios|push notifications|mvvm|android|material design|swift|rest api|git|firebase|react native|dart,android studio|sqlite|java
+J037,Mobile Development,Mobile App Developer,"Job Title: Mobile App Developer
+Company: Brightpath Software
+
+About the role:
+We are looking for a Mobile App Developer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Firebase and Xcode
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Firebase
+- Xcode
+- Material Design
+- Android Studio
+- Jetpack Compose
+- Git
+- Push Notifications
+- Dart
+- Android
+- REST API
+- iOS
+- Kotlin
+
+Nice to have:
+- React Native
+- Flutter
+- MVVM",firebase|xcode|material design|android studio|jetpack compose|git|push notifications|dart|android|rest api|ios|kotlin,react native|flutter|mvvm
+J038,DevOps,DevOps Engineer,"Job Title: DevOps Engineer
+Company: Northwind Technologies
+
+About the role:
+We are looking for a DevOps Engineer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Linux and CI/CD
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Linux
+- CI/CD
+- Bash
+- Grafana
+- GitLab CI
+- AWS
+- Docker
+- Terraform
+- Nginx
+- Python
+- Ansible
+
+Nice to have:
+- Kubernetes
+- Git
+- Azure",linux|ci/cd|bash|grafana|gitlab ci|aws|docker|terraform|nginx|python|ansible,kubernetes|git|azure
+J039,Web Development,Web Developer,"Job Title: Web Developer
+Company: Pixelforge Studio
+
+About the role:
+We are looking for a Web Developer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using JavaScript and Docker
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- JavaScript
+- Docker
+- Next.js
+- Responsive Design
+- CSS
+- Node.js
+- TypeScript
+- HTML
+- Angular
+- SQL
+- MongoDB
+- React
+
+Nice to have:
+- Express
+- Redux
+- GraphQL",javascript|docker|next.js|responsive design|css|node.js|typescript|html|angular|sql|mongodb|react,express|redux|graphql
+J040,Data Science,Data Scientist,"Job Title: Data Scientist
+Company: Northwind Technologies
+
+About the role:
+We are looking for a Data Scientist to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Numpy and Tableau
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Numpy
+- Tableau
+- TensorFlow
+- Pandas
+- Scikit-learn
+- Power BI
+- Data Visualization
+- Python
+- Computer Vision
+- Matplotlib
+- NLP
+- Deep Learning
+
+Nice to have:
+- Statistics
+- Keras
+- Feature Engineering",numpy|tableau|tensorflow|pandas|scikit-learn|power bi|data visualization|python|computer vision|matplotlib|nlp|deep learning,statistics|keras|feature engineering
+J041,Web Development,Frontend Developer,"Job Title: Frontend Developer
+Company: Nimbus Works
+
+About the role:
+We are looking for a Frontend Developer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using HTML and Angular
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- HTML
+- Angular
+- React
+- SQL
+- Redux
+- Tailwind
+- MongoDB
+- JavaScript
+- Express
+- Vue
+- Responsive Design
+
+Nice to have:
+- Next.js
+- CSS
+- TypeScript",html|angular|react|sql|redux|tailwind|mongodb|javascript|express|vue|responsive design,next.js|css|typescript
+J042,Web Development,Frontend Developer,"Job Title: Frontend Developer
+Company: Helios Digital
+
+About the role:
+We are looking for a Frontend Developer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using TypeScript and Tailwind
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- TypeScript
+- Tailwind
+- Webpack
+- MongoDB
+- CSS
+- Express
+- React
+- SQL
+- Redux
+- REST API
+- Next.js
+
+Nice to have:
+- Responsive Design
+- Angular
+- Node.js",typescript|tailwind|webpack|mongodb|css|express|react|sql|redux|rest api|next.js,responsive design|angular|node.js
+J043,Data Engineering,ETL Developer,"Job Title: ETL Developer
+Company: Cedar Peak Solutions
+
+About the role:
+We are looking for a ETL Developer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Kafka and Spark
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Kafka
+- Spark
+- ETL
+- Data Modeling
+- SQL
+- Hadoop
+- Scala
+- Git
+- Snowflake
+
+Nice to have:
+- Airflow
+- Python
+- Docker",kafka|spark|etl|data modeling|sql|hadoop|scala|git|snowflake,airflow|python|docker
+J044,DevOps,Site Reliability Engineer,"Job Title: Site Reliability Engineer
+Company: Cedar Peak Solutions
+
+About the role:
+We are looking for a Site Reliability Engineer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Terraform and Kubernetes
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Terraform
+- Kubernetes
+- AWS
+- Jenkins
+- Bash
+- Git
+- Python
+- Docker
+- Grafana
+- GitLab CI
+- CI/CD
+- Ansible
+
+Nice to have:
+- Linux
+- Helm
+- Azure",terraform|kubernetes|aws|jenkins|bash|git|python|docker|grafana|gitlab ci|ci/cd|ansible,linux|helm|azure
+J045,DevOps,Site Reliability Engineer,"Job Title: Site Reliability Engineer
+Company: Brightpath Software
+
+About the role:
+We are looking for a Site Reliability Engineer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Helm and Docker
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Helm
+- Docker
+- Monitoring
+- Jenkins
+- Azure
+- Prometheus
+- Python
+- Nginx
+- CI/CD
+
+Nice to have:
+- Kubernetes
+- Bash
+- Git",helm|docker|monitoring|jenkins|azure|prometheus|python|nginx|ci/cd,kubernetes|bash|git
+J046,Software Testing,Software Tester,"Job Title: Software Tester
+Company: Helios Digital
+
+About the role:
+We are looking for a Software Tester to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Api Testing and Git
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Api Testing
+- Git
+- SQL
+- JMeter
+- JUnit
+- Performance Testing
+- Postman
+- Manual Testing
+- Selenium
+- Jira
+
+Nice to have:
+- Test Automation
+- Jenkins
+- Cypress",api testing|git|sql|jmeter|junit|performance testing|postman|manual testing|selenium|jira,test automation|jenkins|cypress
+J047,DevOps,Cloud Engineer,"Job Title: Cloud Engineer
+Company: Brightpath Software
+
+About the role:
+We are looking for a Cloud Engineer to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using GitLab CI and Prometheus
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- GitLab CI
+- Prometheus
+- Python
+- Linux
+- AWS
+- Azure
+- Git
+- CI/CD
+
+Nice to have:
+- Helm
+- Nginx
+- Monitoring",gitlab ci|prometheus|python|linux|aws|azure|git|ci/cd,helm|nginx|monitoring

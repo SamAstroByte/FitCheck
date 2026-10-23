@@ -1,0 +1,29 @@
+Job Title: Data Scientist
+Company: Quantix Labs
+
+About the role:
+We are looking for a Data Scientist to join our growing team. You will work closely with product and engineering colleagues to deliver reliable, high-quality solutions.
+
+Responsibilities:
+- Design, build and maintain solutions using Python and Machine Learning
+- Collaborate with cross-functional teams to plan and deliver projects
+- Write clean, well-documented work and take part in code reviews
+
+Required skills:
+- Python
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- Pandas
+- Numpy
+- Statistics
+- Data Visualization
+- Matplotlib
+- NLP
+
+Nice to have:
+- SQL
+- Jupyter
+- Feature Engineering

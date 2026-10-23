@@ -1,0 +1,5 @@
+,precision@10,MAP,NDCG@10
+Skill overlap only,0.777,0.736,0.797
+TF-IDF cosine only,0.998,0.95,0.998
+Category classifier only,1.0,1.0,1.0
+Hybrid (final score),1.0,0.99,1.0
